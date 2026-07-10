@@ -311,7 +311,13 @@ Interactive Dashboard
         │
 Download PDF Report
 ```
+---
 
+## 🌐 Live Demo
+
+👉 [https://YOUR-STREAMLIT-URL.streamlit.app](https://resume-screening-ai-j2kscxeitomhd8zyicgzzs.streamlit.app/)
+
+---
 ---
 
 # 📄 PDF Report
